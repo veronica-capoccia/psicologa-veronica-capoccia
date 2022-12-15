@@ -501,6 +501,9 @@
 .icon-facebook:before {
   content: "\f09a";
 }
+.icon-tiktok:before{
+  content: "\e07b";
+}
 .icon-facebook-f:before {
   content: "\f09a";
 }
